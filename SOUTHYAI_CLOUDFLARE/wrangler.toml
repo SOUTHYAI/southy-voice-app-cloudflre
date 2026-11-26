@@ -1,0 +1,13 @@
+name = "southyai-app"
+pages_build_output_dir = "public"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "southyai-app"
+database_id = "7954e1b1-ecba-4193-9f68-f20c3445bc24"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "southyai-audios"
